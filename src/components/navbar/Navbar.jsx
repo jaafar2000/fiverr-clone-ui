@@ -22,7 +22,7 @@ const Navbar = () => {
 
   const currentUser = {
     id: 1,
-    username: "Anna",
+    username: "JAAFAR",
     isSeller: true,
   };
 
@@ -43,7 +43,7 @@ const Navbar = () => {
         {currentUser ? (
           <div className="user" onClick={()=>setOpen(!open)}>
             <img
-              src="https://images.pexels.com/photos/1115697/pexels-photo-1115697.jpeg?auto=compress&cs=tinysrgb&w=1600"
+         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqekwL2LW2-NBO_FE2f2IjZQnp_1xl-shGcg&usqp=CAU"
               alt=""
             />
             <span>{currentUser?.username}</span>

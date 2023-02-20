@@ -2,7 +2,7 @@ import "./app.scss";
 import { createBrowserRouter, Outlet, RouterProvider } from "react-router-dom";
 import Home  from "./pages/home/Home"
 import Gigs from './pages/gigs/Gigs'
-import AddNewGigs from './pages/addNewGigs/AddNewGigs'
+import AddNewGigs from './pages/add/Add'
 import Register from './pages/register/Register'
 import MyGigs from './pages/myGigs/MyGigs'
 import Messages from './pages/messages/Messages'
