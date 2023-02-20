@@ -16,9 +16,7 @@ Thanks for checking out this Application.
 ### Built with
 
 - React Js
-- Node js
-- tailwind css
-- JavaScript
+- scss
 - JSX
 
 
