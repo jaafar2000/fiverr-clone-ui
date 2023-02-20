@@ -3,9 +3,9 @@
 ## Welcome! 
 Thanks for checking out this Application.
 
-
 ### Links
 - Live site - [Live site](https://deluxe-salmiakki-8e4bfe.netlify.app/)
+
 ## My process
 
 ### Built with
